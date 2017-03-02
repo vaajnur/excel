@@ -123,7 +123,7 @@ Class excel extends CModule
 			{
 					$this->InstallDB();
 					$config_file = $_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/excel/install/codebase/php/config.php";
-					
+
 					$config_text =  "<?php \n";
 					$config_text .= "\$db_host = '$host';\n";
 					$config_text .= "\$db_port = '3306';\n";
