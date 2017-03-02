@@ -8,6 +8,8 @@ IncludeModuleLangFile(__FILE__);
 
 require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/prolog_admin_after.php");
 CModule::IncludeModule('excel');
+$APPLICATION->SetTitle(GetMessage("excel_TITLE"));
+
 ?>
 
 
