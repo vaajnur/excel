@@ -1,7 +1,7 @@
 # excel
-Модуль на основе плагина javascript [SpreadSheet](https://docs.dhtmlx.com/spreadsheet__index.html)__
+Модуль на основе плагина javascript [SpreadSheet](https://docs.dhtmlx.com/spreadsheet__index.html)
 
-![alt text](https://docs.dhtmlx.com/https://raw.githubusercontent.com/vaajnur/excel/spreadsheet_front_image.png)__
+![alt text](https://raw.githubusercontent.com/vaajnur/excel/spreadsheet_front_image.png)
 
 Закинуть в папку /bitrix/modules/
 
