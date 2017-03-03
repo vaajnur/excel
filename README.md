@@ -1,7 +1,7 @@
 # excel
 Модуль на основе плагина javascript [SpreadSheet](https://docs.dhtmlx.com/spreadsheet__index.html)
 
-![alt text](https://raw.githubusercontent.com/vaajnur/excel/spreadsheet_front_image.png)
+![alt text](spreadsheet_front_image.png?raw=true "Optional Title")
 
 Закинуть в папку /bitrix/modules/
 
